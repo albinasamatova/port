@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -139,7 +139,7 @@ margin: 0 0 20px 0;
 <div class="content-section" id="autobiography">
 <h2>Автобиография</h2>
 <div class="profile-section">
-<img src="albinanynphotosy.jpg" class="profile-photo">
+<img src="https://i.postimg.cc/VNBNCZGN/albinanynphotosy.jpg" class="profile-photo">
 <p>Менің аты-жөнім - Саматова Альбина. Мен 2009 жылы БҚО,
 Орал қаласында дүниеге келдім. Мен Алматы қаласының “РФММ”
 мектебінің 10G сынып оқушысымын. Қазіргі толық жасым 15-те.
